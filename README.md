@@ -5,6 +5,7 @@ Assignment 1 - ML & Deep Learning
 ## Team
 - Khaled Sherif Eissa 221010359
 - Samir Mohamed Elshamy 221006600
+- Mahmoud Gomaa 221018253
 
 ## What is this?
 We built 3 different models to recognize handwritten digits (0-9):
